@@ -1,0 +1,11 @@
+nama = input("Masukkan Nama Anda : ")
+prodi = input("Masukkan Prodi Anda : ")
+angkatan = input("Masukkan Angkatan Anda : ")
+
+print ("===============================")
+print ("=         Perkenalan          =")
+print ("===============================")
+print (" Halo, Nama Saya %s" % nama)
+print (" Saya dari Prodi %s" % prodi)
+print (" Saya angkatan %s" % angkatan)
+print ("===============================")  
